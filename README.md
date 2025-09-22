@@ -39,9 +39,9 @@
   </a> 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Garukadeshan&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Garuka's GitHub Stats">
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garukadeshan&count_private=true&theme=radical" alt="SanskarJaiswal" />
-
+![Garukadeshan's Stats](https://github-readme-stats.vercel.app/api?username=Garukadeshan&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)<br>
+![Garukadeshan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Garukadeshan&theme=vue-dark&hide_border=true)<br>
+![Garukadeshan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Garukadeshan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br>
 
 ------
 
